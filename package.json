@@ -1,0 +1,22 @@
+{
+    "name": "geez",
+    "version": "1.0.0",
+    "description": "Discord Bot",
+    "main": "bot.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/saptarshibasu15/geez.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/saptarshibasu15/geez/issues"
+    },
+    "homepage": "https://github.com/saptarshibasu15/geez#readme",
+    "dependencies": {
+        "discord.js": "^12.4.0"
+    }
+}
