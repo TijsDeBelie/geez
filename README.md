@@ -25,4 +25,4 @@ A Discord Bot For Generating memes!
 
   - **replace <your_bot_token> with your test bot's token**
 
-#### ***❤ OpenSource*** *Feel happy to contribute!*
+#### ***❤ #OpenSource*** *Feel happy to contribute!*
