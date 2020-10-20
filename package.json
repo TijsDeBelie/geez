@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/saptarshibasu15/geez#readme",
     "dependencies": {
-        "discord.js": "^12.4.0"
+        "discord.js": "^12.4.0",
+        "dotenv": "^8.2.0"
     }
 }
