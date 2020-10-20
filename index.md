@@ -4,34 +4,31 @@ You can use the [editor on GitHub](https://github.com/saptarshibasu15/geez/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Geez
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A Discord Bot For Generating memes!
 
-```markdown
-Syntax highlighted code block
+### Invite Geez to your server
 
-# Header 1
-## Header 2
-### Header 3
+- [**Invite Geez** - *https://discord.com/api/oauth2/authorize?client_id=768027409853186058&permissions=0&scope=bot*](https://discord.com/api/oauth2/authorize?client_id=768027409853186058&permissions=0&scope=bot)
 
-- Bulleted
-- List
+## Commands
 
-1. Numbered
-2. List
+- `!help` : helps you for further usage of the bot.
+- `!hello` : greets the user.
+- `!meme [image_name] [top_text] [bottom_text]` : generates a meme as specified under arguments.
 
-**Bold** and _Italic_ and `Code` text
+## Setting up the environment for testing
 
-[Link](url) and ![Image](src)
-```
+- make a config.json in root folder.
+- include your test bot's token as below in config.json
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    ```json
+    {
+    "BOT_TOKEN": "<your_bot_token>"
+    }
+    ```
 
-### Jekyll Themes
+  - **replace <your_bot_token> with your test bot's token**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saptarshibasu15/geez/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### ***❤ #OpenSource*** *Feel happy to contribute!*
