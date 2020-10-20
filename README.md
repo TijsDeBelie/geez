@@ -16,15 +16,16 @@ A Discord Bot For Generating memes!
 
 ## Setting up the environment for testing
 
-- make a config.json in root folder.
-- include your test bot's token as below in config.json
+- if you haven't installed `git` and `node`
+  - **Make sure to also add both to PATH variables**
+- fork and clone the repository
 
-    ```json
-    {
-    "BOT_TOKEN": "<your_bot_token>"
-    }
-    ```
+- install all dependencies with `npm install`
+- check if a folder node_modules has been created
 
-  - **replace <your_bot_token> with your test bot's token**
+
+- Rename the `.env.example` file to `.env`
+- Copy your bot token and place it inside the quotes of the `.env` file (EG. BOT_TOKEN="123456789ABCDEFGHIJKL")
+  - **replace <FILL IN YOUR BOT TOKEN> with your test bot's token**
 
 #### ***❤ #OpenSource*** *Feel happy to contribute!*
