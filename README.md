@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_images/849541430334935041/_ID8ejyp_400x400.jpg" height="60" style="border-radius:120px;float:left;transform:translateY(25px);margin-right:20px"/>
+<img src="https://pbs.twimg.com/profile_images/849541430334935041/_ID8ejyp_400x400.jpg" height="60" style="border-radius:120px;"/>
 
 # Geez
 
